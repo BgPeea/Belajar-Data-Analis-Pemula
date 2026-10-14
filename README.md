@@ -31,3 +31,5 @@
 - / -> Dashboard
 - /api/data -> JSON data mentah
 - /api/forecast -> Download Excel forecast dinamis
+
+https://belajaranalis.netlify.app/
