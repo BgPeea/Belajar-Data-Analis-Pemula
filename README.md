@@ -32,4 +32,11 @@
 - /api/data -> JSON data mentah
 - /api/forecast -> Download Excel forecast dinamis
 
-https://belajaranalis.netlify.app/
+# Belajar Analisis Data - PLTM Borbor
+
+Dashboard keuangan PLTM Borbor Agustus 2026
+
+**Live Demo:** https://belajaranalis.netlify.app/
+**Tech Stack:** Python, Pandas, Flask, Chart.js, Netlify
+
+Alur kerja: Excel berantakan → Cleaning dengan Python → Analisis → Dashboard
